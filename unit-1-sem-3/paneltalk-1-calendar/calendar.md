@@ -1,3 +1,3 @@
 Academic Calendar 
 
-weeks · reading week  · semester · onsites 
+weeks · reading week  · semester 
